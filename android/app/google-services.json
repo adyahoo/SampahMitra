@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161401574750",
+    "project_id": "mitrasampahng",
+    "storage_bucket": "mitrasampahng.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161401574750:android:bc6ef99b54edf567836bcf",
+        "android_client_info": {
+          "package_name": "com.gunabangsa.mitra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161401574750-fmp09dkvegflrad8et65mh5eiv0skus4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMY9ktB5j4D9hfmApri2zkyIWS8pWTxTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161401574750-fmp09dkvegflrad8et65mh5eiv0skus4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
