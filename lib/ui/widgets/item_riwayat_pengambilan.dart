@@ -9,7 +9,7 @@ class ItemRiwayatPengambilan extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     DateTime stringToDate =
-        new DateFormat("yyyy-MM-dd").parse(transaksi.tglTransaksi);
+        new DateFormat("yyyy-MM-dd").parse(transaksi.tglTransaksi ?? "");
     String formatedDate = new DateFormat('d MMMM yyyy').format(stringToDate);
     return Column(
       children: [
